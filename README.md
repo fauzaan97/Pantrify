@@ -10,7 +10,7 @@ Anggota 2: Wulan Tiarahayu (22/496725/TK/54440)
 
 ![image](https://github.com/user-attachments/assets/127008f8-6775-4d8a-a44d-ed6e3fca4ded)
 
-![Uploading image.png…]()
+![Uploading image.png…]() 
 
 
 
