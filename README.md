@@ -8,5 +8,9 @@ Anggota 1: Christella Jesslyn Dewantara (22/493149/TK/54003)
 Anggota 2: Wulan Tiarahayu (22/496725/TK/54440)
 ![image](https://github.com/user-attachments/assets/c59fb2ce-b5d4-4041-9223-4ba2f83023d6)
 
+![image](https://github.com/user-attachments/assets/127008f8-6775-4d8a-a44d-ed6e3fca4ded)
+
+![Uploading image.png…]()
+
 
 
