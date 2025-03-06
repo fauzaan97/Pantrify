@@ -1,3 +1,3 @@
-[submodule "Pantrify"]
-    path = Pantrify
-    url = https://github.com/fauzaan97/Pantrify.git
+[submodule "chatbot"]
+    path = pantrify-chatbot-repo
+    url = https://github.com/fauzaan97/Pantrify/blob/main/pantrify-chatbot-repo
