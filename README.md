@@ -19,6 +19,12 @@ Sistem Rekomendasi - Jika aplikasi Pantrify terkait dengan makanan/resep
 Natural Language Processing - Untuk pencarian atau interaksi pengguna
 Image Recognition - Untuk pengenalan gambar produk jika relevan
 
+Sistem Rekomendasi
+Content-Based Filtering: Merekomendasikan resep berdasarkan kecocokan bahan yang tersedia
+Collaborative Filtering: Merekomendasikan berdasarkan preferensi pengguna lain dengan selera serupa
+Hybrid Recommendations: Kombinasi berbagai metode untuk hasil yang lebih akurat
+Contextual Recommendations: Menyesuaikan rekomendasi berdasarkan waktu, musim, atau tren
+
 MongoDB:
 Fleksibel untuk menyimpan data terstruktur maupun tidak terstruktur
 Mendukung query yang kompleks untuk rekomendasi yang akurat
