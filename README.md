@@ -12,3 +12,9 @@ Next.js - Framework React modern untuk pengembangan web
 TypeScript - Bahasa pemrograman yang menambahkan tipe statis ke JavaScript
 API Routes - Endpoint API yang disediakan oleh Next.js
 RESTful API / GraphQL - Kemungkinan digunakan untuk komunikasi client-server
+
+Teknologi AI yang Bisa Diintegrasikan:
+Integrasi API AI - seperti OpenAI untuk fitur cerdas di aplikasi
+Sistem Rekomendasi - Jika aplikasi Pantrify terkait dengan makanan/resep
+Natural Language Processing - Untuk pencarian atau interaksi pengguna
+Image Recognition - Untuk pengenalan gambar produk jika relevan
