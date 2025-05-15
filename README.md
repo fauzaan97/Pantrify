@@ -18,3 +18,10 @@ Integrasi API AI - seperti OpenAI untuk fitur cerdas di aplikasi
 Sistem Rekomendasi - Jika aplikasi Pantrify terkait dengan makanan/resep
 Natural Language Processing - Untuk pencarian atau interaksi pengguna
 Image Recognition - Untuk pengenalan gambar produk jika relevan
+
+MongoDB:
+Fleksibel untuk menyimpan data terstruktur maupun tidak terstruktur
+Mendukung query yang kompleks untuk rekomendasi yang akurat
+Scalable untuk menangani pertumbuhan data resep dan pengguna
+Dukungan untuk geospatial queries jika ingin menambahkan fitur lokasi
+Mudah untuk melakukan perubahan skema seiring berkembangnya aplikasi
